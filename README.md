@@ -8,7 +8,7 @@
 
 We are going to create a robotic arm that detects something in a specific location and relocates the object to another location. 
 
-<img src="Images/planning.jpg" width="250">
+<img src="Images/planning.jpg" width="750">
 
 # Schedule
 
