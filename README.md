@@ -4,6 +4,10 @@
 
 -
 
+# Goal
+
+The Purpose of this project is to create an arm that is c
+
 # Planning 
 
 We are going to create a robotic arm that detects something in a specific location and relocates the object to another location. 
