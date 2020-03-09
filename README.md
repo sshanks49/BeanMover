@@ -6,7 +6,7 @@
 
 # Goal
 
-> The Purpose of this project is to create an arm that is controlable and can automatically pick up objects.
+> The Purpose of this project is to create an arm that is controlable and can pick up small objects.
 
 # Planning 
 
